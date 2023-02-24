@@ -1,0 +1,13 @@
+rocket.png
+size:221,423
+filter:Linear,Linear
+pma:true
+Layer_1
+bounds:2,2,190,86
+rocket
+bounds:2,90,331,149
+offsets:0,0,331,150
+rotate:90
+shadow
+bounds:153,90,331,66
+rotate:90
